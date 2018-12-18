@@ -4,7 +4,7 @@
     "keywords": ["hexlet", "php", "composer"],
     "license": "MIT",
     "bin": [
-        "./sayHi",
-        "./sayBye"
+        "./sayHi.php",
+        "./sayBye.php"
     ]
 }
